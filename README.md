@@ -73,7 +73,8 @@ spring.security.user.password=admin123
 git clone https://github.com/saharsh6464/Basic-job-project.git
 cd SpringSec
 mvn spring-boot:run
-## 👨‍💻 Author
+
 ```
+## 👨‍💻 Author
 **Saharsh Patil**  
 [🔗 LinkedIn](https://www.linkedin.com/in/saharsh-patil-254981293)
